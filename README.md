@@ -1,6 +1,6 @@
 # 👨‍💻 Fabrício Castro Soares
 
-🚀 Desenvolvedor Back-end em formação apaixonado por tecnologia, APIs e arquitetura de software.
+🚀 Dev full stack em formação apaixonado por tecnologia, APIs e arquitetura de software.
 
 Atualmente focado em:
 
@@ -117,6 +117,7 @@ Sou apaixonado por aprender novas tecnologias e transformar conhecimento em proj
 
 Tenho grande interesse em:
 
+* Frontend
 * Backend
 * Segurança
 * APIs
