@@ -47,4 +47,85 @@ Atualmente focado em:
 
 * Arquitetura Backend
 * APIs RESTful
-* A
+* Autenticação JWT
+* Docker
+* Testes automatizados
+* Inteligência Artificial aplicada
+* Engenharia de Prompt
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔐 Guarda Senhas API
+
+Sistema backend desenvolvido com NestJS, Prisma e PostgreSQL com foco em autenticação, criptografia e segurança.
+
+### 📘 Miniguia de Educação Financeira com IA
+
+Projeto utilizando IA generativa aplicada à educação financeira.
+
+### 🚀 APIs REST com NestJS
+
+Criação de APIs modernas utilizando boas práticas de arquitetura backend.
+
+---
+
+## 🏆 Certificações
+
+✅ Luizalabs — Back-end com Python
+✅ Estudos em APIs REST
+✅ Banco de Dados e Prisma ORM
+✅ Git e GitHub
+✅ Engenharia de Prompt
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabriciocastrosoares&show_icons=true&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabriciocastrosoares&layout=compact&theme=tokyonight" 
+  />
+</p>
+
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div>
+
+<a href="https://www.linkedin.com/in/fabricio-soares-65a1523b3/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## 💡 Sobre mim
+
+Sou apaixonado por aprender novas tecnologias e transformar conhecimento em projetos práticos.
+
+Tenho grande interesse em:
+
+* Backend
+* Segurança
+* APIs
+* Inteligência Artificial
+* Arquitetura de Software
+
+---
+
+<div align="center">
+
+✨ “Evoluir um commit por vez.”
+
+</div>
