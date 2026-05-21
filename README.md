@@ -83,13 +83,20 @@ Criação de APIs modernas utilizando boas práticas de arquitetura backend.
 
 ## 📈 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=fabriciocastrosoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabriciocastrosoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocastrosoares&layout=compact&langs_count=7&theme=tokyonight"
+  />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocastrosoares&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 
 ---
 
