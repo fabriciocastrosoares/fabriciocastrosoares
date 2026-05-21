@@ -84,18 +84,17 @@ Criação de APIs modernas utilizando boas práticas de arquitetura backend.
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=fabriciocastrosoares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=fabriciocastrosoares&show_icons=true&theme=tokyonight" 
   />
 </p>
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciocastrosoares&layout=compact&langs_count=7&theme=tokyonight"
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fabriciocastrosoares&layout=compact&theme=tokyonight" 
   />
 </p>
+
 
 
 ---
@@ -104,7 +103,7 @@ Criação de APIs modernas utilizando boas práticas de arquitetura backend.
 
 <div>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/fabricio-soares-65a1523b3/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
